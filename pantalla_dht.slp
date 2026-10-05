@@ -1,0 +1,12 @@
+{
+    "uiExportFolderPath": "C:\\rtos2026\\esp32s3WaveShare147\\pantallaesp32s3b\\prueba1\\components\\display_gui",
+    "projectExportFolderPath": "C:\\rtos2026\\esp32s3WaveShare147\\pantallaesp32s3b\\prueba1\\components\\display_gui",
+    "drive_stdio": "-",
+    "drive_stdio_path": "",
+    "drive_posix": "-",
+    "drive_posix_path": "",
+    "drive_win32": "-",
+    "drive_win32_path": "",
+    "drive_fatfs": "-",
+    "drive_fatfs_path": ""
+}

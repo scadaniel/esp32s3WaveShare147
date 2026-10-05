@@ -1,0 +1,11 @@
+idf_component_register(
+    SRCS
+        "ui.c"
+        "ui_helpers.c"
+        "ui_comp_hook.c"
+        "ui_Screen1.c"
+    INCLUDE_DIRS
+        "."
+    REQUIRES
+        lvgl
+)
